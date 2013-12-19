@@ -1,0 +1,1375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"date",
+				"dateString"
+			],
+			[
+				"fund",
+				"fundraise"
+			],
+			[
+				"coun",
+				"COUNTRY_CODE"
+			],
+			[
+				"比較",
+				"比較產品"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"lis",
+				"list_item"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"be",
+				"best_price_url"
+			],
+			[
+				"hard",
+				"hard_drive"
+			],
+			[
+				"sta",
+				"star_rating"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"fin",
+				"finishCall"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"t",
+				"table-row"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"make-",
+				"make-row"
+			],
+			[
+				"make-c",
+				"make-xs-column"
+			],
+			[
+				"make",
+				"make-sm-column"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"even",
+				"event_info"
+			],
+			[
+				"con",
+				"cond_key"
+			],
+			[
+				"car",
+				"category"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"star",
+				"start_year"
+			],
+			[
+				"end",
+				"end_day"
+			],
+			[
+				"start",
+				"start_month"
+			],
+			[
+				"title",
+				"title_en"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"da",
+				"date_location"
+			],
+			[
+				"ev",
+				"event_title"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"pare",
+				"parsed"
+			],
+			[
+				"lei",
+				"line-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"MONTH",
+				"month"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"event_l",
+				"event_list"
+			],
+			[
+				"ar",
+				"article_list"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"pul",
+				"pull-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"succes",
+				"successfully"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"mod",
+				"modal-body"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"vali",
+				"Validate"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"crea",
+				"create_date_time"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"veri",
+				"verification"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"cont",
+				"watchContentChange"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"height",
+				"min-height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"brand",
+				"brand-danger"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3859,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/AppView.js",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/PaginationView.js",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/ResultView.js",
+			"settings":
+			{
+				"buffer_size": 468,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "collections/PaginatedCollection.js",
+			"settings":
+			{
+				"buffer_size": 3216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/Item.js",
+			"settings":
+			{
+				"buffer_size": 82,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"musta",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"must",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"csc",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"HTMLPrettify"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"3",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"josn",
+				"Set Syntax: JSON"
+			],
+			[
+				"sftp ca",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jalam1/Desktop/funds/lib/backbone.paginator.js",
+		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/cmd/cmd.py",
+		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/cmd/Context.sublime-menu",
+		"/C/Users/jalam1/Desktop/funds/funds.sublime-project",
+		"/C/Users/jalam1/Desktop/funds/js/templates/pagination.html",
+		"/C/Users/jalam1/Desktop/funds/js/testdata.json",
+		"/C/Users/jalam1/Desktop/funds/js/models/todo.js",
+		"/C/Users/jalam1/Desktop/funds/js/templates/todos.html",
+		"/C/Users/jalam1/Desktop/funds/js/collections/todos.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/todos.js",
+		"/C/Users/jalam1/Desktop/funds/js/templates/stats.html",
+		"/C/Users/jalam1/Desktop/funds/js/views/app.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/../templates/pagination.html",
+		"/C/Users/jalam1/Desktop/funds/public/js/app.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/app.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/lists/week.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/models/todo.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/maps/day.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/components/todo-app.js",
+		"/C/Users/jalam1/Desktop/funds/index.html",
+		"/C/Users/jalam1/Desktop/funds/assets/js/models/day.js",
+		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/jalam1/Desktop/funds/assets/js/main.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/views/app.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/collections/week.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/views/day.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/views/fundraises.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/collections/fundraises.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/templates/day.html",
+		"/C/Users/jalam1/Desktop/funds/assets/js/templates/stats.html",
+		"/C/Users/jalam1/Desktop/funds/assets/js/templates/fundraises.html",
+		"/C/Users/jalam1/Desktop/funds/assets/js/testdata.json",
+		"/C/Users/jalam1/Desktop/funds/assets/js/routers/router.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/common.js",
+		"/C/Users/jalam1/Desktop/funds/assets/scss/app.scss",
+		"/C/Users/jalam1/Desktop/canjs_require/js/models/todo.js",
+		"/C/Users/jalam1/Desktop/funds/assets/js/models/fundraise.js",
+		"/C/Users/jalam1/Desktop/funds/config.rb",
+		"/C/Users/jalam1/Desktop/funds/assets/scss/todo.scss",
+		"/C/Users/jalam1/Desktop/fundraising/app/views/index.php",
+		"/C/Users/jalam1/Desktop/fundraising/config.rb",
+		"/C/Users/jalam1/Desktop/fundraising/bower.json",
+		"/C/Users/jalam1/Desktop/fundraising/.bowerrc",
+		"/C/Users/jalam1/Desktop/fundraising/composer.json",
+		"/C/Users/jalam1/Desktop/error.html",
+		"/C/Users/jalam1/Desktop/fundraising/app/routes.php",
+		"/C/Users/jalam1/Desktop/funds/include/app/controllers/HomeController.php",
+		"/C/Users/jalam1/Desktop/fundraising/index.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/routes.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/controllers/HomeController.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/views/layouts/index.blade.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/config/database.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/views/hello.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/include/util.php",
+		"/C/Users/jalam1/Desktop/fundraising/health_check.php",
+		"/C/Users/jalam1/Desktop/fundraising/.htaccess",
+		"/C/Users/jalam1/Desktop/fundraising/deplist.txt",
+		"/C/Users/jalam1/Desktop/fundraising/include/server.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/bootstrap/autoload.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/vendor/autoload.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/vendor/composer/autoload_real.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/start/global.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/start/artisan.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/app/config/app.php",
+		"/C/Users/jalam1/Desktop/fundraising/include/bootstrap/start.php",
+		"/C/Users/jalam1/Desktop/fundraising/php/index.php",
+		"/C/Users/jalam1/Desktop/fundraising/README.md",
+		"/C/Users/jalam1/Desktop/fundraising/libs/server.php",
+		"/C/Users/jalam1/Desktop/fundrasing/assets/js/app.js",
+		"/C/Users/jalam1/Desktop/fundrasing/include/app/views/layouts/index.html",
+		"/C/Users/jalam1/Desktop/htdocs/assets/javascripts/dhl.js",
+		"/C/Users/jalam1/Desktop/fundrasing/config.rb",
+		"/C/Users/jalam1/Desktop/fundrasing/robots.txt",
+		"/C/Users/jalam1/Desktop/funds/bower.json",
+		"/C/Users/jalam1/Desktop/fundrasing/app.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/addToCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/helpmsg.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/cms/index.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/cms/checklogin.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/addToNativeCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/changePassword.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/checkIsExistEmail.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/checkLogin.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/deactivateAccount.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/emailMyList.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getCollection_2.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getDecideResult.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getDecideResult_2.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getHKStore.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getNativeCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProduct.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProductList.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProductRanking.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getScoreRange.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getSearchList.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getSearchProductList.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/insertMember.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/insertReview.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/logout.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/removeCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/reportReview.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/resetPassword.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/reviewTest.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/saveLoginSession.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/sendForgetPword.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/siteSearch.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/temp_updatefm.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/undoCollection.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/updateNotes.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/updatePassword.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/verifyMember.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/index.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/detail.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/sass/app.scss",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/list.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/list.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/search.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/include/class/clsExpertReviewDB.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/search.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/header.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/app.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/page_profile.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/detail.js",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/compare.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/disclaimer.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/page_terms.php",
+		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/index.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\jalam1\\Desktop\\funds\\assets\\js",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in\\js",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\kr",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\intel\\rsp-dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\in",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\include\\class",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\th",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\id",
+			"C:\\Users\\jalam1\\Desktop\\Intel-pio\\dev\\au",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"serverpage",
+			"resultItemTemplate",
+			"number",
+			"numbe",
+			"completed",
+			"todo",
+			"new-todo",
+			"todo",
+			"TodoView",
+			"Todos",
+			"TodoView",
+			"remaining",
+			"\\.destroy",
+			".destroy",
+			"destroy",
+			"todo-list",
+			"#toggle-all:before",
+			"productInfo",
+			"s_helpMeChoose",
+			"<div id=\"s_helpMeChoose\" class=\"container\">\n    <div class=\"title\">Help Me Choose</div>\n</div>\n",
+			"s_helpMeChoose",
+			"Help Me ",
+			"icecat_id",
+			"icecat_id ",
+			"category_layer",
+			"sortby_layer",
+			"inventory_tota",
+			"00AEEF",
+			"color_47",
+			"00AEEF",
+			"\\.btn_container",
+			"btn_container",
+			"color: black",
+			"%extend_3",
+			"color: black",
+			"\\.title",
+			".title",
+			"sortby_layer",
+			"social-share-align",
+			"id=\"social-share\"",
+			"<div id=\"social-share\" class=\"grad\">",
+			"l_sortBy",
+			"hide_overlay",
+			"getNextComputers",
+			"window.location",
+			"p_more_layer",
+			"<a href=\"detail.php?id=<?php echo $related[\"icecat_id\"];?>\">",
+			"p_more_layer",
+			"window.location",
+			"item_ul",
+			"window.location",
+			"strong>",
+			"strong\\>",
+			"btn_pageback",
+			"btn_pagecompare",
+			"window.location",
+			"topBtn_HelpMeChoose",
+			"search_btn",
+			"rank_btn",
+			"window.location",
+			"onclick",
+			"onlick",
+			"showLayer",
+			"closeLayers",
+			"onclick=\"closeLayers\\(\\);\"",
+			"onclick=\"closeLayers();\"",
+			"onclick",
+			"onlick",
+			".cross",
+			"onclick",
+			"signout",
+			"onClick",
+			"closeLayers",
+			"updateInputTextWidth",
+			"showLayer",
+			"IsValidEmail",
+			"addToCollection",
+			"signout",
+			"hide_overlay",
+			"show_overlay",
+			"emailMyList",
+			"compareNow",
+			"updateNotesID",
+			"updateDataFormat",
+			"closeListLayers",
+			"updateButtonWidth",
+			"removeFromCollection",
+			"removeAllCollection",
+			"undo_remove",
+			"rotatePage",
+			"comparePaginationClick",
+			"#product_pic_container #addToMyList",
+			"bottom: 0px;",
+			"addToCollection",
+			"addToMyList",
+			"product_pic_container #addToMyList",
+			"addToMyList",
+			"showProduct",
+			"blue",
+			"updateProductsCarousel",
+			"product_notes",
+			"showProduct",
+			"compare_page",
+			"updateComparePicture",
+			"checkProductLink",
+			"showProduct",
+			"updateComparePicture",
+			"rotateProducts",
+			"showRemarks",
+			"addComma",
+			"updateProductsCarousel",
+			"addComma",
+			"showLayer",
+			"profileLayer",
+			"check_options",
+			"helpbtn",
+			"left-click",
+			"item_ul",
+			"review_block_btn",
+			"more_desc",
+			"show_more",
+			"p_more_version",
+			"more_ranking",
+			"openFilterLayer",
+			"filter_btn_container",
+			"product-search",
+			"searchinput",
+			"updateInputTextWidth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"fundraise",
+			"new-fundraise",
+			"FundraiseView",
+			"Fundraises",
+			"<div id=\"social-share\">",
+			"b>",
+			"",
+			"Intel&reg;",
+			"<?php\\n",
+			"<?php",
+			"<?//",
+			"...",
+			"&copy;",
+			"&#8363; ",
+			"Tìm mua :",
+			"&#8363;",
+			"...",
+			"구매 품목: <b>&#8361; ",
+			"em",
+			": ",
+			"&#8369;",
+			"$",
+			"RM$",
+			"$",
+			"<?php",
+			"<?php ",
+			" ?>",
+			"<?php ",
+			"<?php",
+			"?>",
+			"<?php ",
+			"$product['platform']",
+			"$product['manufacturer']",
+			"$product['category']",
+			"$product['description']",
+			"$product['name']",
+			"$product['picture']",
+			"$product['id']",
+			"",
+			"reviews_expanded",
+			"reviews_list",
+			"$",
+			"$product['category_name']",
+			"$product['icecat_id']",
+			"$product",
+			"$",
+			"more_desc_home",
+			"<div id=\"seeMoreResult\"><a href=\"#\" onclick=\"ga('send', 'event', 'searchpagebutton', 'click', 'show 10 more');getNextComputers()\" class=\"button secondary\">",
+			"<div class=\"clearfloat\"></div>",
+			"closeListLayers",
+			"[$i]",
+			"arrOverallRank[1]",
+			"arrOverallRank[0]",
+			"arrOEMBrandRank[1]",
+			"arrOEMBrandRank[0]",
+			"$arrPlatformRank[1]",
+			"arrPlatformRank[1]",
+			"arrPlatformRank[0]",
+			"$passionRanking[1]",
+			"$passionRanking[0]",
+			"weight[1]",
+			"weight[0]",
+			"weight[1]",
+			"screen[0]",
+			"screen[1]",
+			"screen[0]",
+			"batteryLife[1]",
+			"hardDrive[0]",
+			"hardDrive[1]",
+			"hardDrive[0]",
+			"ram[1]",
+			"ram[0]",
+			"speed[1]",
+			"speed[0]",
+			"processorNo[1]",
+			"processorNo[0]",
+			"processor[1]",
+			"$processor[0]",
+			"$os[1]",
+			"$os[0]",
+			"$manufacturer[1]",
+			"$manufacturer[0]",
+			"$category[1]",
+			"$category[0]",
+			"$priceActual[1]",
+			"$priceActual[0]",
+			"$picture[0]",
+			"$picture[1]",
+			"$picture[0]",
+			"$productName[1]",
+			"$productName[0]",
+			"$icecatId[1]",
+			"$icecatId[0]",
+			"$objProduct[1]",
+			"$objProduct[0]",
+			"$objExpertReview[1]",
+			"$objExpertReview[0]",
+			"objExpertReview[0]",
+			"/4",
+			"img",
+			"h3",
+			"h2",
+			"h1",
+			"td {",
+			"table {",
+			"b {",
+			"a {",
+			"p {",
+			"span",
+			"h4",
+			"div",
+			"h3",
+			"h2",
+			"h1",
+			"div",
+			"table {",
+			"td {",
+			"b {",
+			"div {",
+			"a {",
+			"p {",
+			"span",
+			"textarea",
+			"input",
+			"||",
+			"&&",
+			", ",
+			"this->db_mapper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								400
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/AppView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/PaginationView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								816
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/ResultView.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "collections/PaginatedCollection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								237
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "models/Item.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "funds.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\jalam1\\Desktop\\Intel-pio\\intel-refresh.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
