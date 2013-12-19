@@ -1,8 +1,7 @@
 /*global define */
 
 define([
-	'backbone',
-	'localStorage'
+	'backbone'
 ], function (Backbone) {
 	'use strict';
 

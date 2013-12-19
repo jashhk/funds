@@ -2,16 +2,17 @@
 
 define([
     'marionette',
-    'templates',
-    'views/ActiveCount',
-    'views/CompletedCount'
-], function (Marionette, templates, ActiveCount, CompletedCount) {
+    'templates'
+    // 'views/ActiveCount',
+    // 'views/CompletedCount'
+// ], function (Marionette, templates, ActiveCount, CompletedCount) {
+], function (Marionette, templates) {
     'use strict';
 
     return Marionette.ItemView.extend({
         tagName: 'aside',
 
-        template: templates.footer,
+        template: templates.pagination,
 
         // UI bindings create cached attributes that
         // point to jQuery selected objects
@@ -31,7 +32,8 @@ define([
         },
 
         collectionEvents: {
-            'all': 'render'
+            'reset': 'render',
+            'sync': 'render'
         },
 
         templateHelpers: {
@@ -41,8 +43,8 @@ define([
         },
 
         initialize: function () {
-            this.listenTo(App.vent, 'todoList:reset', this.render, this);
-            this.listenTo(App.vent, 'todoList:sync', this.render, this);
+            // this.listenTo(window.app.vent, 'todoList:reset', this.render, this);
+            // this.listenTo(window.app.vent, 'todoList:sync', this.render, this);
         },
 
         serializeData: function () {

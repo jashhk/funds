@@ -25,7 +25,7 @@ require.config({
 		},
 
 		paginator: {
-			exports: 'Paginator',
+			exports: 'Backbone.Paginator',
 			deps: ['backbone']
 		}
 	},

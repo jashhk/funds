@@ -1,13 +1,13 @@
 /*global define */
 
 define([
-	'marionette'
-], function (Marionette) {
+	'app'
+], function (app) {
 	'use strict';
 
-	return Marionette.AppRouter.extend({
-		appRoutes: {
-			'*filter': 'setFilter'
+	return {
+		setFilter: function (param) {
+			app.vent.trigger('todoList:filter', param && param.trim() || '');
 		}
-	});
+	};
 });

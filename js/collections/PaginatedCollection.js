@@ -1,15 +1,16 @@
 /*global define */
 
 define([
-    'paginator'
-], function (Paginator) {
+    'paginator',
+    'models/Item'
+], function (Paginator, Item) {
     'use strict';
 
     return Paginator.requestPager.extend({
 
         // As usual, let's specify the model to be used
         // with this collection
-        model: Todos.Item,
+        model: Item,
 
         // We're going to map the parameters supported by
         // your API or backend data service back to attributes
