@@ -1,9 +1,5 @@
-/*global define */
-
 define([
-	'backbone'
+    'backbone'
 ], function (Backbone) {
-	'use strict';
-
-	return Backbone.Model.extend({});
-})
+    return Backbone.Model.extend({});
+});

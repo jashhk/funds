@@ -3,10 +3,14 @@
   "version": "0.0.0",
   "dependencies": {
     "requirejs": "~2.x",
+    "requirejs.text": " requirejs/text",
     "underscore": "~1.x",
-    "backbone.marionette": "~1.x",
+    "backbone": "~1.x",
     "jquery": "~1.x",
-    "foundation": "zurb/bower-foundation"
+    "foundation": "zurb/bower-foundation",
+    "modernizr": "~2.x",
+    "handlebars": "~1.1.2",
+    "backbone.paginator": "~0.8.1"
   },
   "resolutions": {
     "jquery": "~1.x"

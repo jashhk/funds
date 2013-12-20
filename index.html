@@ -3,26 +3,115 @@
 
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Backbone.js pagination</title>
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <script src="bower_components/modernizr/modernizr.js"></script>
   </head>
 
   <body>
 
-    <div class="container">
-
-      <p>&nbsp;</p>
+    <div class="row">
       <div class="page-header">
         <h1>Paginator.requestPager() <small>Paginating requests to and from an API/backend</small></h1>
       </div>
 
-      <section id="main"></section>
+      <h3>GitHub issues for Twitter Bootstrap</h3>
+      <ul id="content">
+      </ul>
 
       <div id="pagination">
       </div>
 
     </div>
-    <script src="bower_components/todomvc-common/base.js"></script>
+
+
+    <!--sample template for result item-->
+    <script type="text/html" id="resultItemTemplate">
+      <div class="result">
+        <div class="title">
+        <h4>#<%= id %></h4>
+        <h4><%= organisationNameEnglish %> <%= districtNameEnglish %></h4>
+        <div class="meta"><strong>Meta-data:</strong> Reported by: <%= schedule[0].dateFrom %>, Comments: <%= locationNameEnglish %></span>
+        </div>
+      </div>
+    </script>
+
+    <!-- sample template for pagination UI -->
+    <script type="text/html" id="tmpServerPagination">
+        <div class="row">
+
+          <ul class="pagination">
+
+            <% if (firstPage != currentPage) { %>
+              <li class="arrow"><a href="#" class="serverfirst">First</a></li>
+            <% } %>
+
+            <% if (currentPage > firstPage) { %>
+              <li class="arrow"><a href="#" class="serverprevious">Previous</a></li>
+            <% } else { %>
+              <li class="arrow unavailable"><a>Previous</a></li>
+            <% }%>
+
+            <% for(p = 1; p <= totalPages; p++){ %>
+              <% if (currentPage == p) { %>
+                <li class="current"><a class="page"><%= p %></a></li>
+              <% } else { %>
+                <li><a href="#" class="page"><%= p %></a></li>
+              <% } %>
+            <% } %>
+
+            <% if (currentPage < totalPages) { %>
+              <li class="arrow"><a href="#" class="servernext">Next</a></li>
+            <% } %>
+
+            <% if (lastPage != currentPage) { %>
+              <li class="arrow"><a href="#" class="serverlast">Last</a></li>
+            <% } %>
+
+          </ul>
+
+          </div>
+
+          <div class="row">
+
+            <div class="columns small-3 serverhowmany">
+              Show
+              <a href="#" class="selected">3</a>
+              |
+              <a href="#" class="">9</a>
+              |
+              <a href="#" class="">12</a>
+              per page
+            </div>
+
+
+            <div class="columns small-3 first records">
+              Page: <span class="current"><%= currentPage %></span>
+              of
+              <span class="total"><%= totalPages %></span>
+                    shown
+            </div>
+
+            <div class="columns small-3 sort">
+              <a href="#" class="orderUpdate btn small">Sort by:</a>
+            </div>
+
+            <div class="columns small-3">
+              <select id="sortByField">
+                <option value="cid">Select a field to sort on</option>
+                <option value="date">Created time</option>
+                <option value="activity">Updated time</option>
+                <option value="licence">Number of comments</option>
+              </select>
+            </div>
+
+        </div>
+      </script>
+
+
+
+    <!-- scripts-->
     <script data-main="js/main" src="bower_components/requirejs/require.js"></script>
   </body>
 </html>

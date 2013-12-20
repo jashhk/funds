@@ -1,24 +1,10 @@
-/*global define */
-
 define([
-    'marionette',
-    'templates'
-    // 'views/ActiveCount',
-    // 'views/CompletedCount'
-// ], function (Marionette, templates, ActiveCount, CompletedCount) {
-], function (Marionette, templates) {
-    'use strict';
+    'jquery',
+    'underscore',
+    'backbone'
+], function ($, _, Backbone) {
 
-    return Marionette.ItemView.extend({
-        tagName: 'aside',
-
-        template: templates.pagination,
-
-        // UI bindings create cached attributes that
-        // point to jQuery selected objects
-        ui: {
-            filters: '#filters a'
-        },
+    return Backbone.View.extend({
 
         events: {
             'click a.servernext': 'nextResultPage',
@@ -31,30 +17,23 @@ define([
             'click .serverhowmany a': 'changeCount'
         },
 
-        collectionEvents: {
-            'reset': 'render',
-            'sync': 'render'
-        },
+        tagName: 'aside',
 
-        templateHelpers: {
-            activeCountLabel: function () {
-                return (this.activeCount === 1 ? 'item' : 'items') + ' left';
-            }
-        },
+        template: _.template($('#tmpServerPagination').html()),
 
         initialize: function () {
-            // this.listenTo(window.app.vent, 'todoList:reset', this.render, this);
-            // this.listenTo(window.app.vent, 'todoList:sync', this.render, this);
+
+            this.collection.on('reset', this.render, this);
+            this.collection.on('sync', this.render, this);
+
+            this.$el.appendTo('#pagination');
+
         },
 
-        serializeData: function () {
-            return this.collection.info();
+        render: function () {
+            var html = this.template(this.collection.info());
+            this.$el.html(html);
         },
-
-        // onRender: function () {
-        //     this.$el.parent().toggle(this.collection.length > 0);
-        //     this.updateFilterSelection();
-        // },
 
         updateSortBy: function (e) {
             e.preventDefault();
@@ -95,4 +74,5 @@ define([
         }
 
     });
+
 });

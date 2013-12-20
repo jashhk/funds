@@ -1,10 +1,7 @@
-/*global define */
+define(['paginator', 'models/Item'], function (Paginator, Item) {
 
-define([
-    'paginator',
-    'models/Item'
-], function (Paginator, Item) {
-    'use strict';
+    // Create a new collection using one of Backbone.Paginator's
+    // pagers. We're going to begin using the requestPager first.
 
     return Paginator.requestPager.extend({
 
@@ -54,7 +51,7 @@ define([
             // 10 as a default in case your service doesn't return the total
             totalPages: 10,
 
-            totalRecords : 1
+            totalRecords: 1
         },
 
         server_api: {
@@ -92,4 +89,5 @@ define([
         }
 
     });
+
 });

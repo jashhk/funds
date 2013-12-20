@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"req",
+				"require"
+			],
+			[
+				"ar",
+				"accordion"
+			],
+			[
+				"in",
+				"interchange"
+			],
+			[
+				"found",
+				"foundation"
+			],
+			[
 				"get",
 				"getDate"
 			],
@@ -232,10 +248,6 @@
 				"event_list"
 			],
 			[
-				"ar",
-				"article_list"
-			],
-			[
 				"bor",
 				"border-width"
 			],
@@ -328,10 +340,6 @@
 				"include"
 			],
 			[
-				"req",
-				"require_once"
-			],
-			[
 				"read",
 				"readfile"
 			],
@@ -354,10 +362,6 @@
 			[
 				"height",
 				"min-height"
-			],
-			[
-				"in",
-				"inline-block"
 			],
 			[
 				"inline",
@@ -411,55 +415,79 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 3859,
+				"buffer_size": 799,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app.js",
+			"file": "js/app.js",
 			"settings":
 			{
-				"buffer_size": 573,
-				"line_ending": "Unix"
+				"buffer_size": 3179,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "views/AppView.js",
+			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 542,
-				"line_ending": "Unix"
+				"buffer_size": 4712,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "views/PaginationView.js",
+			"file": "js/lib/marionette.handlebars.js",
 			"settings":
 			{
-				"buffer_size": 2047,
-				"line_ending": "Unix"
+				"buffer_size": 1903,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "views/ResultView.js",
+			"file": "js/views/TodoListCompositeView.js",
 			"settings":
 			{
-				"buffer_size": 468,
-				"line_ending": "Unix"
+				"buffer_size": 637,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "collections/PaginatedCollection.js",
+			"file": "js/models/Item.js",
 			"settings":
 			{
-				"buffer_size": 3216,
-				"line_ending": "Unix"
+				"buffer_size": 120,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "models/Item.js",
+			"file": "js/templates/todoListCompositeView.handlebars",
 			"settings":
 			{
-				"buffer_size": 82,
+				"buffer_size": 68,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/templates.js",
+			"settings":
+			{
+				"buffer_size": 525,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/templates/todoItemView.handlebars",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 358,
 				"line_ending": "Unix"
 			}
 		}
@@ -467,9 +495,21 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 357.0,
 		"selected_items":
 		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
 			[
 				"remo",
 				"Package Control: Remove Package"
@@ -529,10 +569,6 @@
 			[
 				"instal",
 				"Package Control: Install Package"
-			],
-			[
-				"html",
-				"HTMLPrettify"
 			],
 			[
 				"in",
@@ -620,6 +656,63 @@
 	},
 	"file_history":
 	[
+		"/C/Users/jalam1/Desktop/nettuts-laravel4-and-backbone-master/app/routes.php",
+		"/C/Users/jalam1/Desktop/nettuts-laravel4-and-backbone-master/public/index.php",
+		"/C/Users/jalam1/Desktop/fund/scaffold.blade.php",
+		"/C/Users/jalam1/Desktop/funds/js/templates/todoListCompositeView.handlebars",
+		"/C/Users/jalam1/Desktop/funds/js/views/TodoItemView.js",
+		"/C/Users/jalam1/Desktop/funds/js/templates/todoItemView.handlebars",
+		"/C/Users/jalam1/Desktop/funds/js/lib/marionette.handlebars.js",
+		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Users/jalam1/Desktop/funds/bower.json",
+		"/C/Users/jalam1/Desktop/fund/index.html",
+		"/C/Users/jalam1/Desktop/funds/bower_components/foundation/js/foundation/foundation.alert.js",
+		"/C/Users/jalam1/Desktop/funds/js/app.js",
+		"/C/Users/jalam1/Desktop/funds/.gitignore",
+		"/C/Users/jalam1/Desktop/funds/js/main.js",
+		"/C/Users/jalam1/Desktop/fund/js/app.js",
+		"/C/Users/jalam1/Desktop/fund/bower.json",
+		"/C/Users/jalam1/Desktop/funds/index.html",
+		"/C/Users/jalam1/Desktop/funds/js/templates/todoListCompositeView.tmpl",
+		"/C/Users/jalam1/Desktop/funds/app.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/Pagination.js",
+		"/C/Users/jalam1/Desktop/funds/js/collections/PaginatedCollection.js",
+		"/C/Users/jalam1/Desktop/funds/js/models/Item.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/TodoListCompositeView.js",
+		"/C/Users/jalam1/Desktop/funds/js/controllers/index.js",
+		"/C/Users/jalam1/Desktop/funds/js/templates.js",
+		"/C/Users/jalam1/Desktop/funds/js/templates/todoItemView.tmpl",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/templates.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/app.build.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/main.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/app.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/TodoListCompositeView.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/TodoItemView.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/Header.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/Footer.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/CompletedCount.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/views/ActiveCount.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/templates/todoListCompositeView.tmpl",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/templates/todoItemView.tmpl",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/templates/header.tmpl",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/templates/footer.tmpl",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/routers/index.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/models/Todo.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/lib/tpl.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/controllers/index.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/js/collections/TodoList.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette_require/index.html",
+		"/C/Users/jalam1/Desktop/funds/js/templates/pagination.tmpl",
+		"/C/Users/jalam1/Desktop/funds/views/ResultView.js",
+		"/C/Users/jalam1/Desktop/funds/views/AppView.js",
+		"/C/Users/jalam1/Desktop/funds/views/PaginationView.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/index.html",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/js/TodoMVC.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/js/TodoMVC.Todos.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/js/TodoMVC.Layout.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/js/TodoMVC.TodoList.js",
+		"/C/Users/jalam1/Desktop/funds/backbone_marionette/js/TodoMVC.TodoList.Views.js",
+		"/C/Users/jalam1/Desktop/funds/models/Item.js",
 		"/C/Users/jalam1/Desktop/funds/lib/backbone.paginator.js",
 		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/cmd/cmd.py",
 		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/cmd/Context.sublime-menu",
@@ -639,9 +732,7 @@
 		"/C/Users/jalam1/Desktop/funds/assets/js/models/todo.js",
 		"/C/Users/jalam1/Desktop/funds/assets/js/maps/day.js",
 		"/C/Users/jalam1/Desktop/funds/assets/js/components/todo-app.js",
-		"/C/Users/jalam1/Desktop/funds/index.html",
 		"/C/Users/jalam1/Desktop/funds/assets/js/models/day.js",
-		"/C/Users/jalam1/Desktop/Sublime Text Build 3047 x64/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
 		"/C/Users/jalam1/Desktop/funds/assets/js/main.js",
 		"/C/Users/jalam1/Desktop/funds/assets/js/views/app.js",
 		"/C/Users/jalam1/Desktop/funds/assets/js/collections/week.js",
@@ -692,62 +783,7 @@
 		"/C/Users/jalam1/Desktop/fundrasing/include/app/views/layouts/index.html",
 		"/C/Users/jalam1/Desktop/htdocs/assets/javascripts/dhl.js",
 		"/C/Users/jalam1/Desktop/fundrasing/config.rb",
-		"/C/Users/jalam1/Desktop/fundrasing/robots.txt",
-		"/C/Users/jalam1/Desktop/funds/bower.json",
-		"/C/Users/jalam1/Desktop/fundrasing/app.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/addToCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/helpmsg.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/cms/index.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/cms/checklogin.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/addToNativeCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/changePassword.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/checkIsExistEmail.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/checkLogin.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/deactivateAccount.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/emailMyList.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getCollection_2.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getDecideResult.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getDecideResult_2.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getHKStore.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getNativeCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProduct.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProductList.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getProductRanking.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getScoreRange.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getSearchList.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/getSearchProductList.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/insertMember.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/insertReview.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/logout.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/removeCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/reportReview.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/resetPassword.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/reviewTest.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/saveLoginSession.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/sendForgetPword.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/siteSearch.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/temp_updatefm.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/undoCollection.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/updateNotes.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/updatePassword.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/api/verifyMember.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/index.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/detail.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/sass/app.scss",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/list.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/list.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/search.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/include/class/clsExpertReviewDB.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/search.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/header.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/app.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/page_profile.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/detail.js",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/compare.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/disclaimer.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/page_terms.php",
-		"/C/Users/jalam1/Desktop/Intel-pio/dev/in/js/index.js"
+		"/C/Users/jalam1/Desktop/fundrasing/robots.txt"
 	],
 	"find":
 	{
@@ -788,6 +824,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"topbar",
+			"ResultView",
+			"({\n",
 			"serverpage",
 			"resultItemTemplate",
 			"number",
@@ -912,10 +951,7 @@
 			"p_more_version",
 			"more_ranking",
 			"openFilterLayer",
-			"filter_btn_container",
-			"product-search",
-			"searchinput",
-			"updateInputTextWidth"
+			"filter_btn_container"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1061,7 +1097,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -1070,15 +1106,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3859,
+						"buffer_size": 799,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								523,
-								523
+								151,
+								151
 							]
 						],
 						"settings":
@@ -1087,7 +1123,7 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -1098,19 +1134,51 @@
 				},
 				{
 					"buffer": 1,
-					"file": "app.js",
-					"semi_transient": false,
+					"file": "js/app.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 573,
+						"buffer_size": 3179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								389,
-								400
+								732,
+								594
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
 							]
 						],
 						"settings":
@@ -1128,52 +1196,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "views/AppView.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 542,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								122,
-								122
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 3,
-					"file": "views/PaginationView.js",
+					"file": "js/lib/marionette.handlebars.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2047,
+						"buffer_size": 1903,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								810,
-								816
+								1828,
+								1839
 							]
 						],
 						"settings":
@@ -1193,19 +1229,19 @@
 				},
 				{
 					"buffer": 4,
-					"file": "views/ResultView.js",
+					"file": "js/views/TodoListCompositeView.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 468,
+						"buffer_size": 637,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								468,
-								468
+								637,
+								637
 							]
 						],
 						"settings":
@@ -1225,19 +1261,19 @@
 				},
 				{
 					"buffer": 5,
-					"file": "collections/PaginatedCollection.js",
+					"file": "js/models/Item.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3216,
+						"buffer_size": 120,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								225,
-								237
+								113,
+								113
 							]
 						],
 						"settings":
@@ -1245,8 +1281,7 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1256,19 +1291,49 @@
 				},
 				{
 					"buffer": 6,
-					"file": "models/Item.js",
+					"file": "js/templates/todoListCompositeView.handlebars",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 82,
+						"buffer_size": 68,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82,
-								82
+								67,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/templates.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
 							]
 						],
 						"settings":
@@ -1277,6 +1342,68 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "js/templates/todoItemView.handlebars",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
