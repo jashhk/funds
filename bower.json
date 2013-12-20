@@ -1,0 +1,14 @@
+{
+  "name": "funds",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.x",
+    "underscore": "~1.x",
+    "backbone.marionette": "~1.x",
+    "jquery": "~1.x",
+    "foundation": "zurb/bower-foundation"
+  },
+  "resolutions": {
+    "jquery": "~1.x"
+  }
+}

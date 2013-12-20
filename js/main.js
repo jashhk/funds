@@ -35,10 +35,11 @@ require.config({
 
 require([
 	'app',
+	'jquery',
 	'backbone',
 	'routers/index',
 	'controllers/index'
-], function (app, Backbone, Router, Controller) {
+], function (app, $, Backbone, Router, Controller) {
 	'use strict';
 
 	app.start();
@@ -46,4 +47,8 @@ require([
 	new Router({ controller: Controller });
 
 	Backbone.history.start();
+
+	// Foundation JavaScript
+	// Documentation can be found at: http://foundation.zurb.com/docs
+	$(document).foundation();
 });
