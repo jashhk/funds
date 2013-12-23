@@ -27,12 +27,11 @@ define([
             this.collection.on('sync', this.render, this);
 
             this.$el.appendTo('#pagination');
-
         },
 
         render: function () {
             var html = this.template(this.collection.info());
-            this.$el.html(html);
+            this.$el.html(html).hide().fadeIn().slideDown();;
         },
 
         updateSortBy: function (e) {

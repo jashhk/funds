@@ -15,7 +15,6 @@ define([
             tags.on('all', this.render, this);
 
             tags.pager();
-
         },
 
         addOne: function (item) {

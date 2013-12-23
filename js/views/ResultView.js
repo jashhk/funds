@@ -18,8 +18,18 @@ define([
                 id: this.model.cid
             }, this.model.toJSON());
             this.$el.html(this.template(data));
+            // this.fadeIn(this.$el);
+            this.$el.hide().fadeIn().slideDown();
             return this;
-        }
+        },
+
+        // fadeIn: function (wrapper) {
+        //     wrapper.is(':hidden') ?
+        //         wrapper.show('slow') :
+        //         wrapper.hide('slow', function () {
+        //             wrapper.show('slow')
+        //         });
+        // }
     });
 
 });
