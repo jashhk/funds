@@ -2,9 +2,9 @@
 define([
     'collections/PaginatedCollection',
     'views/AppView',
-    'views/PaginationView'
-], function (PaginatedCollection, AppView, PaginationView) {
-
+    'views/PaginationView',
+    'views/ModalView'
+], function (PaginatedCollection, AppView, PaginationView, ModalView) {
     var app = {};
     app.collections = {};
     app.models = {};
@@ -18,6 +18,8 @@ define([
     app.views.pagination = new PaginationView({
         collection: app.collections.paginatedItems
     });
+    app.views.modal = new ModalView();
 
+    window.app = app;
     return app;
 });

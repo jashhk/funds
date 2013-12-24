@@ -17,24 +17,38 @@
       </div>
 
       <h3>The data from Data One</h3>
-      <ul id="content">
-      </ul>
 
       <div id="pagination">
       </div>
 
+      <ul id="content">
+      </ul>
+
+      <div id="map-canvas"></div>
     </div>
 
+    <div id="modal" class="reveal-modal" data-reveal>
 
+    </div>
     <!--sample template for result item-->
     <script type="text/html" id="resultItemTemplate">
       <div class="result">
         <div class="title">
-        <h4>#<%= id %></h4>
-        <h4><%= organisationNameEnglish %> <%= districtNameEnglish %></h4>
-        <div class="meta"><strong>Meta-data:</strong> Reported by: <%= schedule[0].dateFrom %>, Comments: <%= locationNameEnglish %></span>
+          <h4>#<%= id %></h4>
+        </div>
+        <h5><%= organisationNameEnglish %> <%= districtNameEnglish %></h5>
+        <div class="meta">
+          <strong>Meta-data:</strong> Reported by: <%= schedule[0].dateFrom %>, Comments: <%= locationNameEnglish %></span>
         </div>
       </div>
+    </script>
+
+    <!--sample template for result item-->
+    <script type="text/html" id="modalTemplate">
+      <h2>#<%= id %></h2>
+      <h3><%= organisationNameEnglish %> <%= districtNameEnglish %></h3>
+      <p>Location: <%= locationNameEnglish %></p> 
+      <a class="close-reveal-modal">&#215;</a>
     </script>
 
     <!-- sample template for pagination UI -->
@@ -108,9 +122,6 @@
 
         </div>
       </script>
-
-
-
     <!-- scripts-->
     <script data-main="js/main" src="bower_components/requirejs/require.js"></script>
   </body>

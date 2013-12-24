@@ -416,51 +416,20 @@
 	"buffers":
 	[
 		{
-			"file": "js/views/ResultView.js",
+			"file": "/C/Users/jalam1/Desktop/dhl_20131223/.filelist",
 			"settings":
 			{
-				"buffer_size": 606,
-				"line_ending": "Unix"
+				"buffer_size": 1585,
+				"line_ending": "Windows",
+				"name": "/assets/img/article/tc/*"
 			}
 		},
 		{
-			"file": "js/views/AppView.js",
+			"file": "/C/Users/jalam1/Desktop/dhl_20131223/include/app/views/modal/sitemap.blade.php",
 			"settings":
 			{
-				"buffer_size": 597,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/views/PaginationView.js",
-			"settings":
-			{
-				"buffer_size": 2087,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/collections/PaginatedCollection.js",
-			"settings":
-			{
-				"buffer_size": 3186,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 3494,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/jalam1/Desktop/dhl-staging-config/cache.php",
-			"settings":
-			{
-				"buffer_size": 2761,
-				"line_ending": "Unix"
+				"buffer_size": 2525,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -628,17 +597,20 @@
 	},
 	"file_history":
 	[
-		"/C/Users/jalam1/Desktop/dhl-staging-config/app.php",
+		"/C/Users/jalam1/Desktop/dhl_20131223/lg_article.sql",
+		"/C/Users/jalam1/Downloads/lg_article.sql",
+		"/C/Users/jalam1/Desktop/funds/js/views/ResultView.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/AppView.js",
+		"/C/Users/jalam1/Desktop/funds/js/views/PaginationView.js",
+		"/C/Users/jalam1/Desktop/funds/js/collections/PaginatedCollection.js",
 		"/C/Users/jalam1/Desktop/funds/index.html",
+		"/C/Users/jalam1/Desktop/dhl-staging-config/cache.php",
+		"/C/Users/jalam1/Desktop/dhl-staging-config/app.php",
 		"/C/Users/jalam1/Desktop/funds/js/main.js",
 		"/C/Users/jalam1/Desktop/funds/bower.json",
 		"/C/Users/jalam1/Desktop/funds/js/app.js",
-		"/C/Users/jalam1/Desktop/funds/js/views/AppView.js",
-		"/C/Users/jalam1/Desktop/funds/js/views/PaginationView.js",
-		"/C/Users/jalam1/Desktop/funds/js/views/ResultView.js",
 		"/C/Users/jalam1/Desktop/funds/js/models/Item.js",
 		"/C/Users/jalam1/Desktop/nettuts-laravel4-and-backbone-master/public/js/app.js",
-		"/C/Users/jalam1/Desktop/funds/js/collections/PaginatedCollection.js",
 		"/C/Users/jalam1/Desktop/backbone_require/js/views/todos.js",
 		"/C/Users/jalam1/Desktop/backbone_require/js/views/app.js",
 		"/C/Users/jalam1/Desktop/backbone_require/js/main.js",
@@ -752,10 +724,7 @@
 		"/C/Users/jalam1/Desktop/fundraising/include/app/config/database.php",
 		"/C/Users/jalam1/Desktop/fundraising/include/app/views/hello.php",
 		"/C/Users/jalam1/Desktop/Intel-pio/dev/include/util.php",
-		"/C/Users/jalam1/Desktop/fundraising/health_check.php",
-		"/C/Users/jalam1/Desktop/fundraising/.htaccess",
-		"/C/Users/jalam1/Desktop/fundraising/deplist.txt",
-		"/C/Users/jalam1/Desktop/fundraising/include/server.php"
+		"/C/Users/jalam1/Desktop/fundraising/health_check.php"
 	],
 	"find":
 	{
@@ -1069,34 +1038,33 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "js/views/ResultView.js",
+					"file": "/C/Users/jalam1/Desktop/dhl_20131223/.filelist",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 606,
+						"buffer_size": 1585,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								592,
-								592
+								814,
+								814
 							]
 						],
 						"settings":
 						{
+							"auto_name": "/assets/img/article/tc/*",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1106,75 +1074,11 @@
 				},
 				{
 					"buffer": 1,
-					"file": "js/views/AppView.js",
-					"semi_transient": false,
+					"file": "/C/Users/jalam1/Desktop/dhl_20131223/include/app/views/modal/sitemap.blade.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 597,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								522,
-								538
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/views/PaginationView.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2087,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								840,
-								840
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "js/collections/PaginatedCollection.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3186,
+						"buffer_size": 2525,
 						"regions":
 						{
 						},
@@ -1190,72 +1094,9 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3494,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								528,
-								528
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 252.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/C/Users/jalam1/Desktop/dhl-staging-config/cache.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2761,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								524,
-								524
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

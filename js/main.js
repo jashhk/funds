@@ -28,7 +28,17 @@ require.config({
         "foundation.reveal": "../bower_components/foundation/js/foundation/foundation.reveal",
         "foundation.tab": "../bower_components/foundation/js/foundation/foundation.tab",
         "foundation.tooltip": "../bower_components/foundation/js/foundation/foundation.tooltip",
-        "foundation.topbar": "../bower_components/foundation/js/foundation/foundation.topbar"
+        "foundation.topbar": "../bower_components/foundation/js/foundation/foundation.topbar",
+
+        async: '../bower_components/requirejs-plugins/src/async',
+        font: '../bower_components/requirejs-plugins/src/font',
+        goog: '../bower_components/requirejs-plugins/src/goog',
+        image: '../bower_components/requirejs-plugins/src/image',
+        json: '../bower_components/requirejs-plugins/src/json',
+        noext: '../bower_components/requirejs-plugins/src/noext',
+        mdown: '../bower_components/requirejs-plugins/src/mdown',
+        propertyParser : '../bower_components/requirejs-plugins/src/propertyParser',
+        markdownConverter : '../bower_components/requirejs-plugins/lib/Markdown.Converter'
     },
 
     shim: {
@@ -105,6 +115,7 @@ require([
     'jquery',
     'underscore',
     'backbone',
+    'maps',
     "foundation.abide",
     "foundation.accordion",
     "foundation.alert",
@@ -118,13 +129,14 @@ require([
     "foundation.reveal",
     "foundation.tab",
     "foundation.tooltip",
-    "foundation.topbar"
+    "foundation.topbar",
 ], function (app, $, _, Backbone) {
     'use strict';
-
     // new Router({
     //     controller: Controller
     // });
+    
+
 
     Backbone.history.start();
 

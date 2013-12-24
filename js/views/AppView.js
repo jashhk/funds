@@ -8,7 +8,6 @@ define([
         el: '#content',
 
         initialize: function () {
-
             var tags = this.collection;
 
             tags.on('add', this.addOne, this);
@@ -24,7 +23,8 @@ define([
             $('#content').append(view.render().el);
         },
 
-        render: function () {}
+        render: function () {},
+
     });
 
 });
